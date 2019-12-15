@@ -1,0 +1,18 @@
+{
+    "DatabaseUri": "mongodb://server:27017/thethotbot",
+    "ClientID": "",
+    "ClientSK": "",
+    "StreamKey": ",
+    "AwsAccessKey": "",
+    "AwsSecretKey": "",
+    "AwsDefaultRegion": "",
+    "Users": [
+        "thethotbot"
+    ],
+    "Games": [
+        "Counterstrike",
+    ],
+    "Admins": [
+        "username"
+    ]
+}
